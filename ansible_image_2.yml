@@ -1,5 +1,5 @@
 ---
-- name: install and start apache
+-  name: install and start apache
   hosts: all
   # vars_file: vars/vars.yml
   become: yes
